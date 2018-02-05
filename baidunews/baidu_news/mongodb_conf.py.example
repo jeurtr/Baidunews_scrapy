@@ -1,0 +1,13 @@
+#! python3
+# -*- coding: utf-8 -*-
+# 配置文件
+
+# 保存到mongodb的基本参数
+USER_ID = 70
+TASK_ID = 58          # 新闻任务ID
+
+# mongodb的基本配置
+MONGODB_SERVER = '127.0.0.1'
+MONGODB_PORT = 27017
+MONGODB_DB = 'crawler'
+MONGODB_POST_COLLECTION = 'crawler_data_'

@@ -1,0 +1,6 @@
+*.pyc
+/.idea
+.ropeproject
+/baidu_news/mongodb_conf.py
+python3
+/.scrapy/
